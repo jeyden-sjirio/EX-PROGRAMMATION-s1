@@ -8,7 +8,4 @@ int main(void)
     number = number + 1;
     printf("%d", number);
     return (0);
-
 }
-
-
